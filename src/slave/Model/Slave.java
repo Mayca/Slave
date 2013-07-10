@@ -43,7 +43,11 @@ public class Slave {
     }
 
     public void registerCommand(Command command) {
-        
+        //FIX:
+         // BUILD INPUT FOR JFMU
+         // CALL JFMU
+         // GET RESPONSE
+         // RETURN RESPONSE
     }
     
 }
